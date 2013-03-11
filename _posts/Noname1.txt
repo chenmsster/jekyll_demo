@@ -1,2 +1,0 @@
-fatal: https://github.com/chenmsster/jekyll_demo.git/info/refs?service=git-receive-pack 
-not found: did you run git update-server-info on the server?
